@@ -1,4 +1,5 @@
 # my git test
+This is a quick introduction to git and github
 
 i hate conflicts
 
