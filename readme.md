@@ -2,7 +2,11 @@
 
 i hate conflicts
 
-## that makes it subtitle
+## Learned
+* reviews 
+* source tree
+* conflicts in github
+* fork
 
 I am testing it
 
