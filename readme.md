@@ -10,8 +10,7 @@ no fast forward this time
 
 # Important topics
 
-in git it is importnt to know some topics/
-these incluse:
+In Git it is important to know some topics. these include:
 
 * commits
 * merges
