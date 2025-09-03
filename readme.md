@@ -1,5 +1,7 @@
 # my git test
 
+i hate conflicts
+
 ## that makes it subtitle
 
 I am testing it
