@@ -1,12 +1,9 @@
-\# my git test
+# my git test
 
-\## that makes it subtitle
+## that makes it subtitle
 
-\### sub subtitle
+### sub subtitle
 
- I am testing it
+I am testing it
 
 no fast forward this time
-
-
-
