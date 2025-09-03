@@ -8,7 +8,7 @@
 
 no fast forward this time
 
-#Important topics
+# Important topics
 
 in git it is importnt to know some topics/
 these incluse:
