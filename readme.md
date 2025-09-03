@@ -14,5 +14,5 @@ In Git it is important to know some topics. these include:
 
 * commits
 * merges
-1. conflict managemnt
-2. and pull requests
+* conflict managemnt
+* and pull requests
