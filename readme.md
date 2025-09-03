@@ -1,8 +1,15 @@
-# my git test
+# My git test
+This is a quick introduction to git and github
 
 i hate conflicts
 
-## that makes it subtitle
+## That makes it subtitle
+
+## Learned
+* reviews 
+* source tree
+* conflicts in github
+* fork
 
 I am testing it
 
